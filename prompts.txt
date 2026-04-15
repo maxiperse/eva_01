@@ -1,0 +1,18 @@
+Ideas para la página de fans de Breaking Bad:
+
+1. Agregar imágenes de los personajes y escenas icónicas.
+2. Incluir un foro o sección de comentarios para fans.
+3. Añadir trivia sobre la serie.
+4. Crear una galería de memes relacionados con Breaking Bad.
+5. Incluir enlaces a episodios en streaming (con precaución de derechos).
+6. Agregar una sección de merchandise o productos relacionados.
+
+Frases para usar en la página:
+- "Say my name."
+- "You're goddamn right."
+- "I did it for me. I liked it. I was good at it."
+
+Notas de desarrollo:
+- Mantener el diseño simple y responsivo.
+- Usar colores que evoquen la serie: azules, verdes, grises.
+- Asegurarse de que sea accesible para todos los usuarios.
