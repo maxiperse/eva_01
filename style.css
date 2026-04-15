@@ -23,6 +23,16 @@ header p {
     margin: 0.5rem 0 0 0;
 }
 
+.hero-image {
+    width: min(100%, 760px);
+    max-height: 220px;
+    margin: 1.5rem auto 0 auto;
+    display: block;
+    border: 2px solid #7ed957;
+    border-radius: 16px;
+    background-color: #0d190d;
+}
+
 nav {
     background-color: #235523;
     padding: 1rem;
@@ -76,6 +86,19 @@ h2 {
     padding: 1rem;
     border-radius: 12px;
     background-color: #183218;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.character img {
+    width: 100%;
+    max-width: 160px;
+    margin-bottom: 1rem;
+    border-radius: 16px;
+    border: 1px solid #7ed957;
+    background-color: #0d190d;
 }
 
 .character h3 {
@@ -86,6 +109,37 @@ h2 {
 ul {
     list-style-type: disc;
     padding-left: 2rem;
+}
+
+.episode-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 1rem;
+}
+
+.episode {
+    border: 1px solid #2f572f;
+    padding: 1rem;
+    border-radius: 12px;
+    background-color: #183218;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.episode img {
+    width: 100%;
+    max-width: 200px;
+    margin-bottom: 1rem;
+    border-radius: 16px;
+    border: 1px solid #7ed957;
+    background-color: #0d190d;
+}
+
+.episode h3 {
+    margin-top: 0;
+    color: #c8ff8f;
 }
 
 blockquote {
